@@ -8,6 +8,6 @@ allprojects {
 
 
 
-implementation 'com.github.akash84016:CustomBottomBarJava:1.0'
+implementation 'com.github.akash84016:CustomBottomBarJava:1.1'
 
  
