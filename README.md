@@ -7,7 +7,6 @@ allprojects {
 	}
 
 
-
 implementation 'com.github.akash84016:CustomBottomBarJava:1.2'
 
 
