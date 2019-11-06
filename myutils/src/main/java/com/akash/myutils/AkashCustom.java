@@ -16,7 +16,7 @@ import java.io.File;
 import java.io.IOException;
 
 
-public class CustomBottom {
+public class AkashCustom {
 
     public static final int CAMERA_ACTION_PICK_REQUEST_CODE = 1003;
     public static String currentPhotoPath = "";
